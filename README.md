@@ -4,7 +4,7 @@
 
 ## Description
 
-This application was designed to bulid a rock, paper, scissor game in the web browser using JavaScript alert(), confirm(), and prompt() methods to beat the computer at it's own game.
+This application was designed to bulid a rock, paper, scissor game in the web browser using JavaScript `alert()`, `confirm()`, and `prompt()` methods to beat the computer at it's own game.
 
 ## User Story
 
